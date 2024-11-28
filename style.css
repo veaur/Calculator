@@ -1,0 +1,15 @@
+html {
+  background: navy;
+}
+body {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px 75px;
+  background: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+input {
+  width: 50px;
+}
